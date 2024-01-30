@@ -1,0 +1,6 @@
+In flask, there are directories to watch:
+    templates - contains html file
+    static - contains css and images
+    turbine - (environment)
+
+ensure that you watch that they are implemented as they are.
