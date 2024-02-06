@@ -4,3 +4,15 @@ In flask, there are directories to watch:
     turbine - (environment)
 
 ensure that you watch that they are implemented as they are.
+
+
+#Wednesday#
+. working with sql-alchemy and sqlite
+. making the application configurations
+.
+
+nb: learn to make documentation of code [it helps to understand the code]
+
+
+#Tuesday 7th Feb #
+. continuing with tutorial 2 (User registration)
