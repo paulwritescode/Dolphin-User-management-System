@@ -16,3 +16,4 @@ nb: learn to make documentation of code [it helps to understand the code]
 
 #Tuesday 7th Feb #
 . continuing with tutorial 2 (User registration)
+. make sure that the db.create_all() is inside the if __name__ == "__main__": block
